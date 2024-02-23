@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+*{
+    margin: 10px;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Play", sans-serif;
+    
+}
+table th {
+    
+    width: 10em;
+    align-items: center;
+    
+}
+table {
+    border-collapse: collapse;
+}
+.info {
+    background-color: rgb(51, 164, 230);
+    color: rgb(255, 255, 255);
+}
+.lunes {
+    background-color: rgb(224, 223, 223);
+    color: rgb(0, 0, 0);
+}
+.martes {
+    background-color: rgb(255, 255, 255);
+     color: rgb(0, 0, 0);
+ }
+.martes2 {
+   background-color: rgb(224, 223, 223);
+    color: rgb(0, 0, 0);
+}
+.miercoles {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.miercoles2 {
+    background-color: rgb(224, 223, 223);
+    color: rgb(0, 0, 0);
+}
+.miercoles3 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.jueves {
+    background-color: rgb(224, 223, 223);
+    color: rgb(0, 0, 0);
+}
